@@ -1,4 +1,4 @@
-package com.repo2artifact3;
+package com.test;
 
 import org.testng.annotations.Test;
 import org.testng.annotations.BeforeMethod;
