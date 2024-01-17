@@ -42,7 +42,6 @@ jobs:
 
   deploytodev:
     name: 'Deploytodev'
-    needs: publish-job
     runs-on: ubuntu-latest
     steps:
     - name: Run deployment scripts
