@@ -89,8 +89,8 @@ jobs:
         # GitHub Action output files
         source_file: '${{ env.artifactid }}-${{ env.pomversion}}'
       #  source_file: '$artifact'
-        user_name: 'ArunKumarReddy407'
-        destination_repo: 'ArunKumarReddy407/buildmetadata'
+        user_name: 'SSaravanan84'
+        destination_repo: 'SSaravanan84/buildmetadata'
         destination_folder: 'release/app2/'
         #user-email: <your email>
         # It defaults to `main`
